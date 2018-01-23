@@ -64,6 +64,7 @@
 
 # build, distribute, and bins (+ python proto bindings)
 build
+build-tree
 build_host_protoc
 build_android
 build_ios
